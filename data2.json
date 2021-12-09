@@ -1,26 +1,26 @@
 [
     {
-        "Name" : "001",
-        "price" : "100"
+        "name":"jsdaniell",
+    "password":"mypass"
     },
     {
-        "Name" : "002",
-        "price" : "200"
+        "name":"jsdaniell",
+    "password":"mypass"
     },
     {
-        "Name" : "003",
-        "price" : "300"
+        "name":"jsdaniell",
+    "password":"mypass"
     },
     {
-        "Name" : "004",
-        "price" : "400"
+        "name":"jsdaniell",
+    "password":"mypass"
     },
     {
-        "Name" : "005",
-        "price" : "500"
+       "name":"jsdaniell",
+    "password":"mypass"
     },
     {
-        "Name" : "006",
-        "price" : "600"
+        "name":"jsdaniell",
+    "password":"mypass"
     },
 ]
