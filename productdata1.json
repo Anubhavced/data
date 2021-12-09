@@ -1,11 +1,11 @@
 [
     {
-        "name":"jsdaniell",
-    "password":"mypass"
+        "name":"001",
+    "price":"100"
     },
     {
-        "name":"jsdaniell",
-    "password":"mypass"
+        "name":"002",
+    "price":"200"
     }
 
 ]
