@@ -2,32 +2,38 @@
     {
         "name":"001",
          "url": "../basketball.png",
-    "price":"100"
+    "price":"100",
+        "quantity":"1"
     },
     {
         "name":"002",
          "url": "../football.png",
-    "price":"200"
+    "price":"200",
+        "quantity":"1"
     },
      {
         "name":"003",
           "url": "../soccer.png",
-    "price":"300"
+    "price":"300",
+         "quantity":"1"
     },
      {
         "name":"004",
           "url": "../tennis.png",
-    "price":"400"
+    "price":"400",
+         "quantity":"1"
     },
      {
         "name":"005",
           "url": "../table-tennis.png",
-    "price":"500"
+    "price":"500",
+         "quantity":"1"
     },
      {
         "name":"006",
           "url": "../soccer.png",
-    "price":"600"
+    "price":"600",
+         "quantity":"1"
     }
 
 ]
